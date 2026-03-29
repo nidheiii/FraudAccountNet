@@ -28,6 +28,6 @@ Banking fraud detection
 Mule account identification
 Transaction monitoring
 👨‍💻 Author
-Silambarasan
-Nidhish Kumar
+Silambarasan,
+Nidhish Kumar,
 Nithin
