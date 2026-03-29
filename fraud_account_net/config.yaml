@@ -1,0 +1,8 @@
+high_value_txn: 1000000
+cash_limit: 50000
+
+night_hours: [23, 0, 1, 2, 3, 4, 5]
+
+risk_thresholds:
+  low: 0.3
+  medium: 0.6
