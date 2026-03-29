@@ -24,7 +24,7 @@ account_risk_scores.csv → account risk metrics
 Banking fraud detection
 Mule account identification
 Transaction monitoring
-👨‍💻 Author
+👨‍💻 Authors :
 Silambarasan,
 Nidhish Kumar,
 Nithin
