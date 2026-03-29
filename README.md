@@ -12,10 +12,7 @@ Transaction risk scoring
 Account-level risk analysis
 Alert prioritization
 Neo4j integration
-▶️ How to Run
-pip install pandas numpy scikit-learn pandera
-python generate_data_files.py
-python main.py
+
 📊 Output
 
 Stored in outputs/:
